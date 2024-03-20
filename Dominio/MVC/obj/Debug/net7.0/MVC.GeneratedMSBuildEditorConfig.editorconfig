@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC
+build_property.RootNamespace = MVC
+build_property.ProjectDir = /Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Administradores/BusquedaUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5pc3RyYWRvcmVzL0J1c3F1ZWRhVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Administradores/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5pc3RyYWRvcmVzL0hvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Administradores/Listado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5pc3RyYWRvcmVzL0xpc3RhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Administradores/ListadoPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW5pc3RyYWRvcmVzL0xpc3RhZG9Qb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Miembros/FormularioBusquedaTexto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWllbWJyb3MvRm9ybXVsYXJpb0J1c3F1ZWRhVGV4dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Miembros/FormularioPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWllbWJyb3MvRm9ybXVsYXJpb1Bvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Miembros/Listado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWllbWJyb3MvTGlzdGFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Miembros/ListadoInvitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWllbWJyb3MvTGlzdGFkb0ludml0YWNpb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Usuarios/FormularioIngreso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRm9ybXVsYXJpb0luZ3Jlc28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tgi9xj0eup

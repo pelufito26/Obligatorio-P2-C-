@@ -1,0 +1,53 @@
+@using Dominio;
+
+@{
+    ViewData["Title"] = "Listado";
+}
+
+<h1>Listado</h1>
+
+
+@if (ViewBag.Exito != null)
+{
+    <div class="alert alert-danger">No se encontraron miembros</div>
+
+}
+
+@if (ViewBag.Listado == null || ViewBag.Listado.Count == 0)
+{
+    <div class="alert alert-danger">No se encontraron miembros</div>
+    }
+
+
+    else
+    {
+
+
+    <table class="table table-stripped">
+        <tr>
+            <th>Nombre </th>
+            <th>Apellido </th>
+            <th>Status</th>
+            <th>Bloquear</th>
+            <th>Desbloquear</th>
+
+
+        </tr>
+        @foreach (User m in ViewBag.Listado)
+        {
+                @if(m is Miembro miem) // Casteando acá para mostrar solamente los Miembros de la lista de usuarios
+                 {
+                    <tr>
+                        <td>@miem.Nombre</td>
+                        <td>@miem.Apellido</td>
+                        <td>@miem.Status</td>
+
+                        <td><a href="~/administradores/procesarbloqueo?email=@miem.Email" class="btn btn-danger">Bloquear</a></td>
+                        <td><a href="~/administradores/procesardesbloqueo?email=@miem.Email" class="btn btn-success">Desbloquear</a></td>
+
+                    </tr>
+                 }
+            
+        }
+    </table>
+}

@@ -1,0 +1,12 @@
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/bin/Debug/net7.0/Dominio.deps.json
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/bin/Debug/net7.0/Dominio.dll
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/bin/Debug/net7.0/Dominio.pdb
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/Dominio.csproj.AssemblyReference.cache
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfoInputs.cache
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/Dominio.AssemblyInfo.cs
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/Dominio.csproj.CoreCompileInputs.cache
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/Dominio.dll
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/refint/Dominio.dll
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/Dominio.pdb
+/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/Dominio/obj/Debug/net7.0/ref/Dominio.dll

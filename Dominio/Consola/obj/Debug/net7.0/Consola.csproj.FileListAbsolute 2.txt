@@ -1,0 +1,162 @@
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/matheusmelo/Desktop/Obligatorio/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio DEF/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/facundopelufo/Desktop/ORT - P2/Obligatorio FACU-2-10/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/matheusmelo/Desktop/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/matheusmelo/Downloads/Obligatorio FACU-3-10UltimaVersion/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/matheusmelo/Downloads/Obligatorio1.0 2 2/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/bin/Debug/net7.0/Consola
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/bin/Debug/net7.0/Consola.deps.json
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/bin/Debug/net7.0/Consola.runtimeconfig.json
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/bin/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/bin/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/bin/Debug/net7.0/Dominio.dll
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/bin/Debug/net7.0/Dominio.pdb
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.AssemblyReference.cache
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfoInputs.cache
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.AssemblyInfo.cs
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CoreCompileInputs.cache
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.csproj.CopyComplete
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.dll
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/refint/Consola.dll
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.pdb
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/Consola.genruntimeconfig.cache
+/Users/matheusmelo/Downloads/ObligatorioIIOficial/Dominio/Consola/obj/Debug/net7.0/ref/Consola.dll

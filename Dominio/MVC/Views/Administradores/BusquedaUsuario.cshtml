@@ -1,0 +1,41 @@
+@using Dominio;
+
+<h1>Busqueda Usuario</h1>
+
+<form action="~/administradores/ProcesarBusquedaUsuario" method="post">
+    <div>
+        <label for="texto">Texto</label>
+        <input type="text" class="form-control" id="busqueda" name="texto" placeholder="Ingrese texto" value="">
+        <input type="submit" value="Buscar" class="" btn btn-secondary" />
+    </div>
+
+</form>
+
+@if (ViewBag.Usuarios == null)
+{
+    <div class="alert alert-danger">No hay usuarios</div>
+}
+else
+{
+
+    <table class="table table-stripped">
+        <tr>
+            <th>Mail</th>
+            <th>Tipo</th>
+
+        </tr>
+
+        @foreach (User u in ViewBag.Usuarios)
+        {
+
+            <tr>
+
+                <td>@u.Email</td>
+                <td>@u.Tipo()</td>
+
+            </tr>
+
+
+        }
+    </table>
+}

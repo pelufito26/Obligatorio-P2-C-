@@ -1,0 +1,158 @@
+@using Dominio;
+@{
+    ViewData["Title"] = "ListadoPost";
+}
+
+<h1>Listado de posts</h1>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+
+}
+
+
+@if (ViewBag.Exito != null)
+{
+    <div class="alert alert-success">@ViewBag.Exito</div>
+
+}
+
+@if (ViewBag.Posts == null || ViewBag.Posts.Count == 0)
+{
+    <div class="alert alert-danger">No se encontraron Posts</div>
+
+}
+else
+{
+
+
+    @foreach (Post p in ViewBag.Posts)
+    {
+        <input type="hidden" name="postId" value="@p.IdPubli" />
+
+
+        @if (Context.Session.GetString("rol") == "Administrador" ||
+ (!p.Censurado && Context.Session.GetString("rol") == "Miembro" && 
+ (p.Autor.EsAmigo(Context.Session.GetString("email")) || p.Autor.Email == Context.Session.GetString("email"))))
+        {
+            <div class="container mt-5">
+                <!-- Post -->
+                <div class="card mb-4">
+                    <div class="card-header">
+
+                        <img width ="200" heigt="200" src="~/images/@p.Imagen" alt="imagen">
+                        <h2>@p.TituloPubli</h2>
+
+                        <h2>@p.Autor.Nombre @p.Autor.Apellido</h2>
+
+
+                        @if (Context.Session.GetString("rol") == "Miembro")
+                        {
+                            <a href="~/miembros/AgregarLikeAPost?id=@p.IdPubli" class="btn btn-primary">Like</a>
+                            <span>@p.CantidadLikes()</span>
+                            <a href="~/miembros/AgregarDislikeAPost?id=@p.IdPubli" class="btn btn-danger">Dislike</a>
+                            <span>@p.CantidadDislikes()</span>
+                            <span>Calculo VA: @p.CalcularVA()</span>
+                        }
+
+
+
+                        @if (Context.Session.GetString("rol") == "Administrador")
+                        {
+                            <a href="~/administradores/procesarbanear?id=@p.IdPubli" class="btn btn-danger">Banear</a>
+                            <a href="~/administradores/ProcesarDesbloqueoBanear?id=@p.IdPubli" class="btn btn-success">Desbloquear</a>
+                            <span>@p.Censurado</span>
+                        }
+
+
+
+
+                    </div>
+                    <div class="card-body">
+                        <p>@p.Contenido</p>
+                        <p>@p.fechaPubli</p>
+                    </div>
+
+                    @if (Context.Session.GetString("rol") == "Miembro" && !p.Censurado)
+                    {
+                        <form method="post" action="~/miembros/ProcesarFormularioComentario" enctype="multipart/form-data">
+                            <div class="card mt-4">
+                                <div class="card-body">
+
+
+                                    <h5>Ingresa un comentario</h5>
+
+                                    <div class="form-group">
+
+                                        <input type="text" class="form-control" id="titulo" name="titulo" placeholder="Ingrese titulo" value="">
+                                    </div>
+
+                                    <input type="hidden" name="postId" value="@p.IdPubli" />
+
+                                    <br />
+                                    <div class="form-group">
+
+                                        <input type="text" class="form-control" id="contenido" name="contenido" placeholder="Ingrese contenido" value="">
+                                    </div>
+
+
+
+                                    <br />
+                                    <input type="submit" class="btn btn-primary" value="Comentar" />
+                                </div>
+                            </div>
+
+                        </form>
+                    }
+
+
+
+                </div>
+
+                @if (Context.Session.GetString("rol") == "Miembro" && !p.Censurado)
+                {
+                    <h3>Comentários</h3>
+                    foreach (Comentario c in p.ListaComentario)
+                    {
+
+                        <div class="list-group">
+                            <div class="list-group-item list-group-item-action flex-column align-items-start">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h5 class="mb-1">@c.Autor</h5>
+
+                                </div>
+                                <h5 class="mb-1">@c.TituloPubli</h5>
+                                <p class="mb-1">@c.Contenido</p>
+                                <a href="~/miembros/AgregarLikeAComentario?id=@c.IdPubli" class="btn btn-primary">Like</a>
+                                <span>@c.CantidadLikes()</span>
+                                <a href="~/miembros/AgregarDislikeAComentario?id=@c.IdPubli" class="btn btn-danger">Dislike</a>
+                                <span>@c.CantidadDislikes()</span>
+
+
+                                <span>Calculo VA: @c.CalcularVA()</span>
+                            </div>
+                            <br />
+                            <!-- Repita o bloco acima para mais comentários -->
+
+
+                        </div>
+
+
+
+                    }
+
+
+
+                }
+
+
+
+
+
+            </div>
+
+        }
+    }
+
+}

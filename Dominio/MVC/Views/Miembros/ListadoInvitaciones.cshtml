@@ -1,0 +1,42 @@
+@using Dominio;
+
+@{
+    ViewData["Title"] = "ListadoInvitaciones";
+}
+
+<h1>Listado Invitaciones</h1>
+
+@if (ViewBag.ListadoInv == null || ViewBag.ListadoInv.Count == 0)
+{
+    <div class="alert alert-danger">No hay invitaciones en lista</div>
+}
+else
+
+{
+    <table class="table table-stripped">
+        <tr>
+            <th>Id Solicitud</th>
+            <th>Miembro Solicitante</th>
+            <th>Aceptar</th>
+            <th>Rechazar</th>
+
+
+        </tr>
+        @foreach (Invitacion inv in ViewBag.ListadoInv)
+        {
+            @if (inv.MiembroSolicitado.Email == Context.Session.GetString("email") && inv.Status == Status.PENDIENTE_APROBACION) // Casteando acá para mostrar solamente los Miembros de la lista de usuarios
+            {
+                <tr>
+                    <td>@inv.IdInv</td>
+                    <td>@inv.MiembroSolicitante</td>
+           
+
+                    <td><a href="~/Miembros/procesaraceptacion?id=@inv.IdInv" class="btn btn-success">Aceptar</a></td>
+                    <td><a href="~/Miembros/procesarrechazo?id=@inv.IdInv" class="btn btn-danger">Rechazar</a></td>
+
+                </tr>
+            }
+
+        }
+    </table>
+}

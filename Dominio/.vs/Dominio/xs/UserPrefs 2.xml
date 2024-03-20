@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{68D70A85-5025-4DFC-8CB0-A63E53D3DF72}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Consola PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MVC/Controllers/HomeController.cs" Line="15" Column="5" />
+      <File FileName="MVC/Views/Shared/_Layout.cshtml" />
+      <File FileName="MVC/Controllers/UsuariosController.cs" />
+      <File FileName="MVC/Views/Usuarios/FormularioIngreso.cshtml" />
+      <File FileName="MVC/Views/Usuarios/Login.cshtml" />
+      <File FileName="Dominio/Sistema.cs" />
+      <File FileName="Dominio/Administrador.cs" />
+      <File FileName="Dominio/Invitacion.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dominio" expanded="True">
+            <Node name="Dominio" expanded="True" />
+            <Node name="MVC" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="Usuarios" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

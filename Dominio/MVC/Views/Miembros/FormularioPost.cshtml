@@ -1,0 +1,49 @@
+@using Dominio;
+@{
+    ViewData["Title"] = "FormularioPost";
+}
+
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@if (ViewBag.Exito != null)
+{
+    <div class="alert alert-success">@ViewBag.Exito</div>
+}
+
+<h1>FormularioPost</h1>
+
+<form method="post" action="~/miembros/ProcesarFormularioPost" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="email">Titulo</label>
+        <input type="text" class="form-control" id="titulo" name="tituloPubli" placeholder="Ingrese titulo" value="">
+    </div>
+
+    <div class="form-group">
+        <label for="titulo">Contenido</label>
+        <input type="text" class="form-control" id="contenido" name="contenido" placeholder="Ingrese contenido" value="">
+    </div>
+    <div class="form-group">
+
+        <label for="opcion">Seleccion una opción:</label>
+        <select name="tipoPost" class="form-select" aria-label="Default select example">
+            <option>Seleccione una opción</option>
+            <option value="publico">Público</option>
+            <option value="privado">Privado</option>
+        </select>
+    </div>
+
+
+
+    <div class="form-group">
+        <label for="imageen">Imagen</label>
+        <input type="file" class="form-control" name="imagen">
+    </div>
+
+    <br />
+    <input type="submit" class="btn btn-secondary" value="Crear" />
+
+</form>

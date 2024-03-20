@@ -1,0 +1,56 @@
+@using Dominio;
+
+@{
+    ViewData["Title"] = "Listado";
+}
+
+<h1>Listado</h1>
+<br />
+<br />
+
+@if (ViewBag.Exito != null)
+{
+    <div class="alert alert-success">@ViewBag.Exito</div>
+
+}
+else if (ViewBag.Listado == null || ViewBag.Listado.Count == 0)
+{
+    <div class="alert alert-danger">No hay miembro para enviar solicitud de amistad!</div>
+
+}
+else
+{
+
+
+<table class="table table-stripped">
+    <tr>
+        <th>Nombre </th>
+        <th>Apellido </th>
+        <th>Status</th>
+        <th>Enviar Solicitud</th>
+    </tr>
+    @{
+        bool existeMiembroDisponible = false; // Flag para verificar si existe por lo menos un miebro en el listado
+    }
+
+    @foreach (User m in ViewBag.Listado)
+    {
+        if (m is Miembro miem && miem.EsAmigo(Context.Session.GetString("email")) == false && miem.Email != Context.Session.GetString("email"))
+        {
+            <tr>
+                <td>@miem.Nombre</td>
+                <td>@miem.Apellido</td>
+                <td>@miem.Status</td>
+                <td><a href="~/miembros/procesarinvitacion?email=@miem.Email" class="btn btn-primary">Enviar</a></td>
+            </tr>
+                existeMiembroDisponible = true; // Si hay por lo menos un miembro en la lista, la variable "existeMiembroDisponible"  recibe true
+            }
+        }
+
+    @if (!existeMiembroDisponible) // Si no hay ningun miembro en la lista,  muestra el mensaje de alerta
+        {
+        <div class="alert alert-danger">No hay miembro para enviar solicitud de amistad!</div> 
+    }
+
+</table>
+}

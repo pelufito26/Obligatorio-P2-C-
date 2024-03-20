@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/obj/Debug/net7.0/scopedcss/projectbundle/MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/MVC.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/css/site 2.css",
+      "PackagePath": "staticwebassets/css/site 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/images/Screenshot 2023-10-19 at 19.49.19.png",
+      "PackagePath": "staticwebassets/images/Screenshot 2023-10-19 at 19.49.19.png"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/images/imagenPost1.jpg",
+      "PackagePath": "staticwebassets/images/imagenPost1.jpg"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/images/imagenPost2.jpg",
+      "PackagePath": "staticwebassets/images/imagenPost2.jpg"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/images/imagenPost3.jpg",
+      "PackagePath": "staticwebassets/images/imagenPost3.jpg"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/images/imagenPost4.jpg",
+      "PackagePath": "staticwebassets/images/imagenPost4.jpg"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/images/imagenPost5.jpg",
+      "PackagePath": "staticwebassets/images/imagenPost5.jpg"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/images/oi.jpg",
+      "PackagePath": "staticwebassets/images/oi.jpg"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/js/site 2.js",
+      "PackagePath": "staticwebassets/js/site 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/LICENSE 2",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min 2.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min 2.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap 2.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle 2.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min 2.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm 2.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min 2.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min 2.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js 2.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE 2.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE 2.txt"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive 2.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min 2.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/LICENSE 2.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE 2.md"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/additional-methods 2.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min 2.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate 2.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min 2.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/LICENSE 2.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE 2.txt"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/dist/jquery 2.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/dist/jquery.min 2.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min 2.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/dist/jquery.min 2.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min 2.map"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/facundopelufo/Downloads/ObligatorioIIP2Oficial22NOV-ULTIMO-2-2/Dominio/MVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MVC.props",
+      "PackagePath": "build\\MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MVC.props",
+      "PackagePath": "buildMultiTargeting\\MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MVC.props",
+      "PackagePath": "buildTransitive\\MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

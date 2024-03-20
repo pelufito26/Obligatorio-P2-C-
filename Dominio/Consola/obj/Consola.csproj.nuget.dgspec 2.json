@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Consola/Consola.csproj": {}
+  },
+  "projects": {
+    "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Consola/Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Consola/Consola.csproj",
+        "projectName": "Consola",
+        "projectPath": "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Consola/Consola.csproj",
+        "packagesPath": "/Users/matheusmelo/.nuget/packages/",
+        "outputPath": "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Consola/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/matheusmelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Dominio/Dominio.csproj": {
+                "projectPath": "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Dominio/Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Dominio/Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Dominio/Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Dominio/Dominio.csproj",
+        "packagesPath": "/Users/matheusmelo/.nuget/packages/",
+        "outputPath": "/Users/matheusmelo/Desktop/ObligatorioIIOficial/Dominio/Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/matheusmelo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

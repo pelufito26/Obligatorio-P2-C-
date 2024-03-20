@@ -1,0 +1,28 @@
+﻿@using Microsoft.AspNetCore.Mvc;
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+
+@if (ViewBag.Exito != null)
+{
+    <div class="alert alert-success">@ViewBag.Exito</div>
+
+}
+
+<div class="text-center">
+    @if (Context.Session.GetString("email") != null)
+    {
+        <h1 class="display-4">Bienvenido @Context.Session.GetString("email")</h1>
+}
+else
+{
+<h1 class="display-4">Bienvenido Anonimous</h1>
+}
+
+</div>
+

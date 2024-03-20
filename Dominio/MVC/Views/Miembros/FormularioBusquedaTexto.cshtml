@@ -1,0 +1,77 @@
+@using Dominio;
+@{
+    ViewData["Title"] = "FormularioBusquedaTexto";
+}
+
+<h1>FormularioBusquedaTexto</h1>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@if (ViewBag.Exito != null)
+{
+    <div class="alert alert-success">@ViewBag.Exito</div>
+}
+
+<form method="post" action="~/miembros/ProcesarFormularioBusquedaTexto" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="texto">Texto</label>
+        <input type="text" class="form-control" id="titulo" name="texto" placeholder="Ingrese texto" value="">
+    </div>
+
+    <div class="form-group">
+        <label for="numero">Numero</label>
+        <input type="number" class="form-control" id="titulo" name="numero" placeholder="Ingrese numero" value="">
+    </div>
+
+
+    <br />
+    <input type="submit" class="btn btn-secondary" value="Buscar" />
+
+</form>
+
+
+<br />
+
+@if (ViewBag.Publicaciones == null)
+{
+    <div class="alert alert-success">@ViewBag.Error</div>
+}
+else
+{
+
+
+    <table class="table table-stripped">
+        <tr>
+            <th>Tipo</th>
+            <th>Autor</th>
+            <th>Contenido</th>
+            <th>Id Publicación</th>
+            <th>Fecha</th>
+            <th>Calculo VA</th>
+
+
+        </tr>
+        @foreach (Publicacion p in ViewBag.Publicaciones)
+        {
+            
+                <tr>
+
+                    <td>@p.tipoPublicacion()</td>
+                    <td>@p.Autor</td>
+                    <td>@p.Contenido</td>
+                    <td>@p.IdPubli</td>
+                    <td>@p.fechaPubli</td>
+                    <td>@p.CalcularVA()</td>
+
+
+
+
+                </tr>
+            
+
+        }
+    </table>
+}

@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS8600: Converting null literal or possible null value to non-nullable type.
+
+
+# IDE0055: Fix formatting
+dotnet_diagnostic.IDE0055.severity = none
